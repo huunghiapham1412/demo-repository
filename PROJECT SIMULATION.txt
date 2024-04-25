@@ -1,2 +1,4 @@
 implement Feature 1
 -----------------------
+implement Feature 2
+-----------------------
